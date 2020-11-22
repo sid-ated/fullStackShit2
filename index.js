@@ -8,7 +8,7 @@ var port = Number(process.env.PORT || 3000);
 var db = require('./db.json');
 
 function isAuthenticated({username, password}){
-  return userdb.users.findIndex(user => user.username === username && user.password === password) !== -1
+  return db.users.findIndex(user => user.username === username && user.password === password) !== -1
 }
 
 server.post('/users/login', (req, res) => {
