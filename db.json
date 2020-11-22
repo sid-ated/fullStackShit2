@@ -337,7 +337,21 @@
       "date": "2020-06-17T16:45:35.227Z",
       "id": 5
     }
-  ]
+  ],
+  "users":[
+	   {
+	   	"username":"theadmin",
+	   	"password":"theadmin"
+	   },
+	   {
+	   	"username":"theuser1",
+	   	"password":"theuser1"
+	   },
+	   {
+	   	"username":"theuser2",
+	   	"password":"theuser2"
+	   }
+	]
 }
 
 
