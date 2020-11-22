@@ -2,7 +2,7 @@
   "medicines": [
     {
       "id": 0,
-      "name": "Uthappizza",
+      "name": "The Vitamins",
       "image": "images/uthappizza.png",
       "category": "mains",
       "label": "Hot",
@@ -12,7 +12,7 @@
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
+      "name": "The Paracetamol",
       "image": "images/zucchipakoda.png",
       "category": "appetizer",
       "label": "",
@@ -22,7 +22,7 @@
     },
     {
       "id": 2,
-      "name": "Vadonut",
+      "name": "The Blue Pill",
       "image": "images/vadonut.png",
       "category": "appetizer",
       "label": "New",
@@ -32,7 +32,7 @@
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
+      "name": "The Red Pill",
       "image": "images/elaicheesecake.png",
       "category": "dessert",
       "label": "",
