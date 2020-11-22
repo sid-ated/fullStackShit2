@@ -5,6 +5,9 @@ var middlewares = jsonServer.defaults();
 var port = Number(process.env.PORT || 3000);
 
 //yaha se
+const bodyParser = require('body-parser');
+server.use(bodyParser.json());
+
 var db = require('./db.json');
 
 function isAuthenticated({username, password}){
