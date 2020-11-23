@@ -8,7 +8,7 @@
       "label": "Hot",
       "price": "4.99",
       "featured": true,
-      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      "description": "Vitamins are very necessary. Some girls have vitamins in their kisses "
     },
     {
       "id": 1,
@@ -18,7 +18,7 @@
       "label": "",
       "price": "1.99",
       "featured": false,
-      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+      "description": "This is the all time fav medicine. Isn't it?"
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "label": "New",
       "price": "1.99",
       "featured": false,
-      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      "description": "Remember? This is the only way out of matrix."
     },
     {
       "id": 3,
@@ -38,7 +38,7 @@
       "label": "",
       "price": "2.99",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "This is the way to matrix."
     }
   ],
   "comments": [
