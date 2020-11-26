@@ -338,27 +338,30 @@
       "id": 5
     }
   ],
-  "users":[
-	   {
-	   	"id": 1,
-	   	"username":"theadmin",
-	   	"password":"theadmin",
-	   	"isAdmin": true
-	   },
-	   {
-	   	"id": 2,
-	   	"username":"theuser1",
-	   	"password":"theuser1",
-	   	"isAdmin":false
-	   },
-	   {
-	   	"id": 3,
-	   	"username":"theuser2",
-	   	"password":"theuser2",
-		"isAdmin": false
-	   }
-	]
+  "users": [
+    {
+      "id": 1,
+      "username": "theadmin",
+      "password": "theadmin",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "username": "theuser1",
+      "password": "theuser1",
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "username": "theuser2",
+      "password": "theuser2",
+      "isAdmin": false
+    },
+    {
+      "id": 4,
+      "username": "theuser3",
+      "password": "theuser3",
+      "isAdmin": false
+    }
+  ]
 }
-
-
-
